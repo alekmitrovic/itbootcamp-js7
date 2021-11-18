@@ -1,0 +1,31 @@
+.crveni_paragraf
+{
+    color: red;
+}
+
+.desno_poravnanje
+{
+    text-align: right;
+}
+
+/* Vise elemenata sa istim svojstvom*/
+
+
+h3, h4 {
+    color: orange;
+}
+
+.drugi, #treci {
+
+    background-color: yellow;
+}
+
+/*prioritet: selector < klasa< id */
+
+.kurs {
+    color: blue
+}
+
+#js {
+    color:red ;
+}

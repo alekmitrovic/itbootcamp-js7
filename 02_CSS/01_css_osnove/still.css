@@ -1,0 +1,35 @@
+h3 {
+    color:green;
+    text-decoration: line-through;
+}
+
+h1{
+    color: purple;
+}
+
+#prvi {
+    text-align: right;
+
+}
+
+p {
+    color: rebeccapurple;
+}
+
+.zuta_pozadina
+{
+    background-color: yellow;
+    font-weight: bold;
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+    /*margin: 50px;   --- ovo znaci oko celog teksta */
+
+    /* 
+    
+     ovo izmedju svakog pojedinacnog elementa u tekstu
+    *{
+        margin: 50px;
+    }
